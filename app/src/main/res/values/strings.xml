@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">geoquiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="toast_correct">Correct!</string>
+    <string name="toast_incorrect">Incorrect.</string>
+
+    <!-- Questions -->
+    <string name="question_oceans">The Pacific Ocean is larger thanthe Atlantic Ocean.</string>
+    <string name="question_mideast">The Suez Canal connects the Red Seaand the Indian Ocean.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">The Amazon River is the longest riverin the Americas.</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepestfreshwater lake.</string>
 </resources>
